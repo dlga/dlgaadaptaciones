@@ -7,7 +7,17 @@ navigation: 5
 # Cuarto de Ingeniería de Software
 
 ## ISPP
-*Actualmente no disponemos de información sobre esta asignatura.*
+Se plantean las siguientes acciones desde el equipo docente de la asignatura:
+
+* Se anula la evaluación del primer sprint (#S1) y el peso correspondiente se distribuirá proporcionalmente en el resto de sprints. En este sentido, mañana 17 se podrá hacer la entrega de manera opcional de la presentación y el software para recibir feedback sin que tenga ningún efecto evaluable.
+
+* Los próximos miércoles 18 y 25 habrá clases virtuales en el horario habitual donde los equipos realizarán una presentación a través de la Enseñanza Virtual (Contenido > VIRTUAL CLASSROOM) 1 y recibirán feedback por parte de los profesores de la forma habitual.
+
+* Se mantiene la entrega evaluable del segundo sprint (#S2) el martes 31 de marzo y el miércoles 1 de Abril la sesión de presentación evaluable que se realizará siguiendo las instrucciones del Rectorado (virtualmente si es necesario).
+
+* En base a la experiencia que acumulemos en estos días y de una eventual ( y probable) prórroga del estado de alarma, se realizará una revisión de estas acciones y del calendario de futuros entregables.
+
+
 ## CBD
 
 Complemento de Bases de Datos  durante el tiempo que se mantenga interrumpida la docencia  
