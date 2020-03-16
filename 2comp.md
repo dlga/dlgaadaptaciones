@@ -11,10 +11,15 @@ navigation: 11
 ## AC
 *Actualmente no disponemos de información sobre esta asignatura.*
 ## IISSI2
-*Actualmente no disponemos de información sobre esta asignatura.*
+
+Rogamos que estén atentos a anuncios y foros específicos por asignaturas y grupos para esta asgnatura.
+
+Como primer paso, hemos creado "Foros específicos para la asignatura", recomendando que cada alumno se suscriba a ellos (entrando y pulsando en la opción de suscripción) para estar puntualmente informado. Nos volcaremos en ofrecer nuevo material de apoyo e instrucciones concretas semana a semana, así como a atender las dudas y cuestiones a través de estos foros.
+
+
 ## MD
 *Actualmente no disponemos de información sobre esta asignatura.*
 ## RC
 *Actualmente no disponemos de información sobre esta asignatura.*
 
-### Última actualización:
+### Última actualización: 16/03/20 23:00

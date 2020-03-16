@@ -4,11 +4,15 @@ title: 2º T.Informáticas
 navigation: 7
 ---
 
-# Adaptación de asignaturas
+# Segundo de Tecnologías Informáticas
 
-Desde la **Delegación de Alumnos** de la **Escuela Técnica Superior de Ingeniería Informática** tenemos la intención de poner a disposición de los alumnos un directorio donde recoger los cambios que se van a realizar en cada asignatura de cara a la actual situación extraordinaria.
-Los datos publicados en esta página se han obtenido directamente de los distintos departamentos y la actualización de los mismos se realizará a medida que recibamos información oficial. 
 
-A pesar de obtener estos datos de fuentes fiables, desde Delegación no nos hacemos responsables del cumplimiento de los mismos ya que únicamente recogemos la información que se nos aporta.
 
-## Última actualización: 
+## ISSI 2
+
+Rogamos que estén atentos a anuncios y foros específicos por asignaturas y grupos para esta asgnatura.
+
+Como primer paso, hemos creado "Foros específicos para la asignatura", recomendando que cada alumno se suscriba a ellos (entrando y pulsando en la opción de suscripción) para estar puntualmente informado. Nos volcaremos en ofrecer nuevo material de apoyo e instrucciones concretas semana a semana, así como a atender las dudas y cuestiones a través de estos foros.
+
+
+### Última actualización: 16/03/20 23:00
