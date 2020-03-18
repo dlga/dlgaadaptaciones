@@ -81,6 +81,7 @@ Entendemos que estamos en una situación excepcional que requiere un esfuerzo po
 ## MVG
 
 En la nueva situación en la que nos encontramos de estado de alarma en el país, y obligados a impartir docencia no presencial, tratamos de adaptarnos lo mejor que podemos dando por el camino algunos palos de ciego. Esta mañana hemos vuelto a reunirnos las profesoras de la asignatura y, tras examinar el funcionamiento del Blaboard Collaborate Ultra, herramienta que la enseñanza virtual pone a nuestra disposición con el fin impartir clases online, hemos decidido darle una oportunidad. De esta forma, a fin de adaptar el proyecto docente de la asignatura a la situación actual, seguiremos la siguiente estrategia.
+
 La docencia teórica y práctica se impartirá en el mismo horario que tenía programado a través de la plataforma de la Enseñanza Virtual de la US. 15 minutos antes del inicio de la hora de clase, se abrirá una sesión en esta misma plataforma. 
 Las clases serán grabadas y puestas a disposición de los alumnos.
 El horario de tutoría se realizará también de forma telemática, previa solicitud por correo electrónico por parte del alumno. No habrá ningún horario establecido para ello, sino que será acordado con el alumno.
