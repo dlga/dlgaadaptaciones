@@ -37,7 +37,7 @@ Crearemos un foro donde podréis plantear las dudas que tengáis de estos temas,
 La semana que viene se anunciará el calendario de actividades para el resto del tema de DNS y siguientes temas.
 
 Las siguientes notificaciones se harán mediante anuncios en EV, pero no se enviará ningún correo.
-Estas medidas son las que vamos a adoptar por ahora, si se constataran dificultades iremos incorporando otras medidas. Os pedimos un poco de paciencia, dado que los profesores también tenemos que adaptarnos a esta nueva modalidad de clases.
+Estas medidas son las que vamos a adoptar por ahora, si se constataran dificultades iremos incorporando otras medidas. Os pedimos un poco de paciencia, dado que los profesores también tenemos que adaptarnos a esta nueva modalidad wde clases.
 
 Si tenéis alguna duda, o sugerencia, podéis hacerla llegar al coordinador de la asignatura, Jaime Benjumea (jaimebm@us.es).
 
