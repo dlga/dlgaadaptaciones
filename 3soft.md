@@ -14,17 +14,17 @@ Las sesiones de laboratorio se suspenden hasta que se reanuden las clases presen
 
 Las clases de teoría se impartirán de forma no presencial, online, de la siguiente forma. Respecto a clases de problemas:
 
-- Se usará la plataforma de BlackBoard Collaborate, a la que se podrá acceder desde EV.
+— Se usará la plataforma de BlackBoard Collaborate, a la que se podrá acceder desde EV.
 
-- El próximo miércoles 18, a las 10.40 se impartirá una sesión de 2h de resolución de problemas correspondientes a los temas 1 a 3.
+— El próximo miércoles 18, a las 10.40 se impartirá una sesión de 2h de resolución de problemas correspondientes a los temas 1 a 3.
 
-- La previsión es que en esa clase se vean los problemas del boletín y los del parcial publicado que tengan que ver con esos temas.
+— La previsión es que en esa clase se vean los problemas del boletín y los del parcial publicado que tengan que ver con esos temas.
 
-- Si no diera tiempo a abarcarlo todo, se continuará el viernes 20 a las 12.40.
+— Si no diera tiempo a abarcarlo todo, se continuará el viernes 20 a las 12.40.
 
-- Estas sesiones (iii y iv), en el horario antes citado, están dirigidas a los tres grupos de teoría.
+— Estas sesiones (iii y iv), en el horario antes citado, están dirigidas a los tres grupos de teoría.
 
-- Dichas sesiones se grabarán y estarán disponibles para todo el mundo.
+— Dichas sesiones se grabarán y estarán disponibles para todo el mundo.
 
 Respecto a lo que falta por explicar de IPv6 (grupos 1 y 3 de teoría), se subirá a EV la explicación de esa parte.
 
