@@ -44,7 +44,7 @@ Si tenéis alguna duda, o sugerencia, podéis hacerla llegar al coordinador de l
  
 ## DP2
 
-iguiendo las directrices definidas por la Universidad de Sevilla que podéis encontrar aquí (https://www.us.es/avance/informacion-covid-19), hemos decidido tomar las siguientes medidas para intentar continuar con la docencia con la mayor normalidad posible:
+Siguiendo las directrices definidas por la Universidad de Sevilla que podéis encontrar aquí (https://www.us.es/avance/informacion-covid-19), hemos decidido tomar las siguientes medidas para intentar continuar con la docencia con la mayor normalidad posible:
 
 — Las clases de teoría se proporcionan como vídeos que se dejarán disponibles en la Enseñanza Virtual. De esta manera se pretende proporcionar mayor flexibilidad a la hora de confeccionar el horario dedicado a docencia. Se ha habilitado un foro en EV dentro del apartado Debates para las dudas sobre el contenido. Así, todos podrán compartir las dudas que se tengan. En caso de que se estime necesario, en futuras semanas habilitaremos una franja horaria para atender dudas relacionadas con los vídeos de teoría.
 
