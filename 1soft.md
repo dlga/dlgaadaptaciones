@@ -17,4 +17,4 @@ navigation: 2
 ## EdC
 *Actualmente no disponemos de información sobre esta asignatura.*
 
-### Última actualización:
+### Última actualización: 28/03/20
