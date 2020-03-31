@@ -20,7 +20,7 @@ Lessons will take place using Collaborate and attendance will continue to be com
 
 ## AI
 
-Professors will continue to upload materials to the subject's webpage (theory and exercises).
+Professors will continue to upload materials to the subject's webpage (theory and exercises). They have catched up with the students again, starting classes or explications.
 
 More detailed explanations will be uploaded if possible as well.
 
@@ -43,4 +43,6 @@ Tutorials will be attended by email and, if necessary, by video call.
 
 If any student is not in the correct EV group please contact the teacher in charge.
 
-### Last edit: 16/03/20 23:00
+The teachers are studying alternatives for Erasmus students, like subtitles in videos. If any change is madre, they will make an announcement.
+
+### Last edit: 31/03/20 19:00
