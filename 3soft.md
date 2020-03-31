@@ -118,4 +118,4 @@ Diculpen las molestias que este problema técnico pudiera causarles, pero la dif
 
 En nombre del equipo docente de PSG2, os pedimos disculpas y comprensión por la situación creada por la pandemia que nos afecta, esperando que con el esfuerzo de todos podamos continuar el curso con las mínimas inconveniencias. Si tenéis alguna duda sobre cualquier punto, podéis dirigiros a vuestros tutores correspondientes o al coordinador de la asignatura (josemgarcia@us.es).
 
-### Última actualización: 18/03/20 19:30
+### Última actualización: 31/03/20 18:00
