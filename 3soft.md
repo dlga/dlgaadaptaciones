@@ -10,7 +10,11 @@ navigation: 4
 
 Respecto al desarrollo de la asignatura mientras estén suspendidas las clases presenciales, los profesores de teoría de la asignatura os comunicamos las siguientes medidas adoptadas:
 
-Las sesiones de laboratorio se suspenden hasta que se reanuden las clases presenciales, al ser esta una actividad que no puede desarrollarse online.
+Las prácticas de laboratorio se está viendo la posibilidad de que algunas de ellas se puedan realizar en casa, probablemente usando una máquina virtual. Otras, por las necesidades de hardware que tienen, no es tan fácil hacerlo así.
+
+La evaluación de las prácticas dependerá de cuándo se vuelva a tener clases presenciales. Cuando sepan algo más, lo comunicarám a través de EV.
+
+
 
 Las clases de teoría se impartirán de forma no presencial, online, de la siguiente forma. Respecto a clases de problemas:
 
@@ -102,13 +106,15 @@ Como sabéis, la suspensión de la docencia presencial en la Universidad de Sevi
 
 — Para entrar en la herramienta, se debe acceder a Enseñanza Virtual, entrar en el curso y en el apartado de grupos hacer clic en el nombre del grupo al que se pertenece, y dentro de Herramientas del grupo seleccionar Collaborate para unirse a la sala usando el botón correspondiente.
 
-— Las sesiones serán grabadas, para que tengan acceso posterior todo el grupo a la misma. Durante la sesión, los alumnos compartirán su pantalla para exponer lo realizado durante el Sprint.
+— Las sesiones serán grabadas, para que tengan acceso posterior todo el grupo a la misma. Durante la sesión, los alumnos compartirán su pantalla para exponer lo realizado durante el Sprint. Se ha subido el volumen de cada vídeo 10 decibelios. 
 
 — En caso de que no fuera posible realizar la sesión de revisión por causas ajenas al grupo, se replanificará la misma de acuerdo con el profesor tutor correspondiente a la mayor brevedad.
 
 — Salvo incidencias de última hora, la entrega final del D2 seguirá siendo el viernes 20 de marzo, tal y como estaba previsto.
 
 En cuanto al Sprint L3, estando previsto su comienzo el miércoles 18 de marzo, se ofrecerán grabaciones con los contenidos planificados en clase, junto con sesiones online de dudas que serán anunciadas convenientemente.
+
+Diculpen las molestias que este problema técnico pudiera causarles, pero la dificultad técnica experimentada viene condicionada por la precariedad de las condiciones en las que estamos teniendo que grabar los videos. 
 
 En nombre del equipo docente de PSG2, os pedimos disculpas y comprensión por la situación creada por la pandemia que nos afecta, esperando que con el esfuerzo de todos podamos continuar el curso con las mínimas inconveniencias. Si tenéis alguna duda sobre cualquier punto, podéis dirigiros a vuestros tutores correspondientes o al coordinador de la asignatura (josemgarcia@us.es).
 
