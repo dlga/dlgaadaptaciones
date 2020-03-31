@@ -8,8 +8,30 @@ navigation: 3
 
 ## ADDA
 *Actualmente no disponemos de información sobre esta asignatura.*
+
 ## AC
-*Actualmente no disponemos de información sobre esta asignatura.*
+
+- Debido a lo imprevisto de las circunstancias en que nos encontramos y con objeto de no retrasar la impartición de contenidos teóricos, hemos decidido adelantar el tema 5 de la asignatura, asignándole una dedicación de 4 horas lectivas.
+
+- El material disponible para el tema 5 fue elaborado en su día para que los alumnos prepararan sus contenidos de forma autónoma; por ello, incluye un documento con las copias de las páginas del libro de referencia que los alumnos deben leer, una presentación en la que se desarrollan los contenidos que el alumno debe aprender, así como referencias a las páginas del libro en las que se encuentran cada uno de los conceptos estudiados en el tema. Desde hace varios cursos académicos los alumnos han venido utilizando el material correspondiente al tema 5 para preparar sus pruebas de evaluación sin que hubiera ninguna queja al respecto.
+
+- Respecto al tema 4 de la asignatura (que los alumnos deben prepararse a partir de la semana que viene): 
+       * Se usa como texto de referencia un libro que los alumnos pueden consultar a través de Internet, pues forma parte de los recursos online disponibles en la biblioteca de la Universidad de Sevilla.  
+       
+       * Las diapositivas existentes se han adaptado para la docencia no presencial (el nuevo material será publicado antes del próximo lunes 30 de marzo):  
+       
+                + Se ha añadido información adicional a las diapositivas de clase para facilitar el estudio autónomo del alumno. 
+                
+                + En cada diapositiva, se han incluido referencias a las páginas del libro en las que se explican los conceptos contenidos en la diapositiva. 
+                
+                + Se han creado diapositivas nuevas que incluyen ejemplos detallados que explican algunos de los conceptos del tema 4. 
+                
+- Se proporcionarán ejercicios con soluciones (como, de hecho, ya ha ocurrido) como mecanismo de autoevaluación. 
+
+- Se han creado grupos de trabajo mediante la herramienta Microsoft Teams para atender las dudas de los alumnos. Se ha establecido un horario preferente para atender estas tutorías, aunque en la práctica los profesores suelen estar disponible un tiempo mayor. El número de horas de este horario preferente es igual (o mayor o igual) al de la dedicación docente de los profesores (tutorías y clases).
+
+
+
 ## AISS
 
 Como sabéis, la situación derivada del COVID-19 ha obligado a cancelar la docencia presencial
@@ -66,6 +88,20 @@ Como primer paso, hemos creado "Foros específicos para la asignatura", recomend
 
 
 ## MD
-*Actualmente no disponemos de información sobre esta asignatura.*
 
-### Última actualización: 18/03/20 20:00
+* Grupo 1: Se está avanzando en la asignatura fundamentalmente con explicaciones en vídeo tanto de teoría como de problemas. También se está complementando con algunos ejercicios resueltos completamente en formato pdf. Para mantener el contacto con los alumnos se está haciendo uso de MS-Teams o correos electrónicos.
+
+* Grupo 2: Se está avanzando en la teoría de la asignatura fundamentalmente con explicaciones en vídeo. Se están proporcionando ejercicios resueltos, unos en pdf y otros en vídeos. Para contactar con la profesora se puede utilizar el correo electrónico.
+
+* Grupo 3: Tanto para la teoría como para los problemas se está haciendo uso de vídeos y material en pdf. Se ha impartido alguna sesión con Blackboard Collaborate Ultra, y se puede contactar con la profesora mediante correos electrónicos. En este grupo no recuerdo si también está habilitado el uso de MS-Teams o no.
+
+* Grupo 4: Se están utilizando vídeos, transparencias ampliadas, se está proporcionando ejercicios resueltos. Se ha realizado o se va a realizar alguna sesión con Blackboard Collaborate Ultra. Para contactar con la profesora también se está haciendo uso del correo electrónico.
+
+En definitiva, entiendo que, en todos los grupos, además de las diapositivas que inicialmente se les suele dar a los alumnos como apoyo y para un seguimiento más cómodo de la signatura en el normal desarrollo del curso, se está aportando bastante material extra (en distintos formatos) para que los alumnos puedan continuar el avance de la asignatura. De hecho, todos estamos esforzándonos bastante para conseguir paliar los efectos de la no presencialidad de las clases.
+
+Es cierto que en algunos grupos se están tratando de hacer sesiones en directo con Blackboard Collaborate Ultra y en otros no, pero también es cierto que las circunstancias personales y las herramientas de que disponemos unos profesores y otros también son diferentes. No sé si este hecho es lo que ha podido desencadenar la queja de los alumnos, pero entiendo que las otras herramientas que se están utilizando pueden ser tan válidas y valiosas como las sesiones en Blackboard Collaborate.
+
+EnSi tenéis alguna duda, o sugerencia, podéis hacerla llegar a la coordinadora de la asignatura, María Dolores Frau García, (mdfrau@us.es).
+
+
+### Última actualización: 31/03/20 19:00
