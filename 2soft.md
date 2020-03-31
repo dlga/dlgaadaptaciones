@@ -7,7 +7,10 @@ navigation: 3
 # Segundo de Ingeniería de Software
 
 ## ADDA
-*Actualmente no disponemos de información sobre esta asignatura.*
+
+Se volverán a grabar las clases teóricas pero se hace especial hincapié en que los alumnos vayan a clase de teoría para resolver dudas.
+
+También se aplazará la entrega de de la práctica indicidual 3B al 21 de abril del 2020.
 
 ## AC
 
@@ -86,6 +89,9 @@ Rogamos que estén atentos a anuncios y foros específicos por asignaturas y gru
 
 Como primer paso, hemos creado "Foros específicos para la asignatura", recomendando que cada alumno se suscriba a ellos (entrando y pulsando en la opción de suscripción) para estar puntualmente informado. Nos volcaremos en ofrecer nuevo material de apoyo e instrucciones concretas semana a semana, así como a atender las dudas y cuestiones a través de estos foros.
 
+Como medidas adicionales los profesores han optado por un método no presencial similar al utilizado en el master online, explicando en video todo lo necesario para superar la asignatura, con esto y el foro cada profesor hará un seguimiento de los alumnos que se le asignaron.
+
+Además se está planteando la posibilidad de tener clases presenciales para la resolución de dudas.
 
 ## MD
 
