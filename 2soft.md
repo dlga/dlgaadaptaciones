@@ -12,6 +12,11 @@ Se volverán a grabar las clases teóricas pero se hace especial hincapié en qu
 
 También se aplazará la entrega de de la práctica indicidual 3B al 21 de abril del 2020.
 
+Así mismo se hará mayor uso de Eclipse en las clases prácticas, por tanto se aconseja asistir a dichas clases para la resolución de las dudas de las prácticas.
+
+De igual manera se están buscando alternativas a la evaluación mediante los 4 controles presenciales de prácticas.
+
+
 ## AC
 
 - Debido a lo imprevisto de las circunstancias en que nos encontramos y con objeto de no retrasar la impartición de contenidos teóricos, hemos decidido adelantar el tema 5 de la asignatura, asignándole una dedicación de 4 horas lectivas.
