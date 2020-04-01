@@ -16,6 +16,7 @@ Así mismo se hará mayor uso de Eclipse en las clases prácticas, por tanto se 
 
 De igual manera se están buscando alternativas a la evaluación mediante los 4 controles presenciales de prácticas.
 
+Se destinará la práctica de la semana del 13 de abril al 17 del mismo mes a la explicación de la práctica individial 4A, esta clase se grabará pero se recomienda la asistencia a la clase.
 
 ## AC
 
