@@ -7,7 +7,11 @@ navigation: 11
 # Segundo de Ingeniería de Computadores
 
 ## ADDA
-*Actualmente no disponemos de información sobre esta asignatura.*
+
+Ha habido un problema de conexión con el grupo 1B, por tanto el profesor no pudo comenzar la clase a la hora prevista. Los alumnos que tengan dudas podrán acceder a la sala habilitada para los grupos TI1A y TI1B o solicitar tutorías con vuestro profesor de prácticas. Recordad que si tenéis cualquier otro problema contactad con vuestro profesor por correo electrónico.
+
+Además la clase práctica de la semana del 13 de abril al 17 del mismo mes se utilizará para explicar la práctica PI4A ya que el control no se podrá realizar, esta clase será grabada pero se insta a los alumnos a asistir.
+
 ## AC
 *Actualmente no disponemos de información sobre esta asignatura.*
 ## IISSI2
