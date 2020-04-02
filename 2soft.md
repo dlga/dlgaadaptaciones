@@ -39,6 +39,8 @@ Se destinará la práctica de la semana del 13 de abril al 17 del mismo mes a la
 
 - Se han creado grupos de trabajo mediante la herramienta Microsoft Teams para atender las dudas de los alumnos. Se ha establecido un horario preferente para atender estas tutorías, aunque en la práctica los profesores suelen estar disponible un tiempo mayor. El número de horas de este horario preferente es igual (o mayor o igual) al de la dedicación docente de los profesores (tutorías y clases).
 
+-El grupo 1 cambiará de profesor de prácticas a Daniel Cascado Caballero hasta el final de curso. Este nuevo profesor impartirá clases a través de las sesiones del Aula Virtual. Para acceder a sus sesiones se deberá acceder mediante el enlace llamado aulas virtuales. Allí estará en el link AC-IS, donde se encontrará la sesión GRUPO LAB 1. Práctica x sesión y. Las clases se impartirán en el horario habitual (miércoles 8:30) aunque previo acuerdo del grupo se puede cambiar la hora. Si existiera alguna duda se puede contactar al correo del profesor (danicas@us.es) o mediante Teams.
+
 
 
 ## AISS
@@ -116,4 +118,4 @@ Es cierto que en algunos grupos se están tratando de hacer sesiones en directo 
 EnSi tenéis alguna duda, o sugerencia, podéis hacerla llegar a la coordinadora de la asignatura, María Dolores Frau García, (mdfrau@us.es).
 
 
-### Última actualización: 31/03/20 19:00
+### Última actualización: 02/04/18:56
