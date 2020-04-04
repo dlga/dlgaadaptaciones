@@ -44,4 +44,4 @@ Además y en relación con lo anterior el parcial programado para el 2 de abril 
 Además hacen un llamamiento a los alumnos queu tengan alguna idea de como mejorar la docencia en estos momentos y no solo a los que tengan problemas con la docencia. Ya que en esta situación es complicado tener algo concreto.
 
 
-### Última actualización:
+### Última actualización: 04/04/2020 11:00
