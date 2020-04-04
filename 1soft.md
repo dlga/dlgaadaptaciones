@@ -33,4 +33,4 @@ Para cualquier duda que tengáis en relación con esta situación excepcional, h
 ## EdC
 *Actualmente no disponemos de información sobre esta asignatura.*
 
-### Última actualización:
+### Última actualización: 04/04/2020 11:00
