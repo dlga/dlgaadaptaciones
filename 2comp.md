@@ -6,24 +6,61 @@ navigation: 11
 
 # Segundo de Ingeniería de Computadores
 
-## ADDA
+Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no esté aprobado, no se haya presentado o que el proyecto docente publicado de la asignatura sea común para todos los grupos.
 
-Ha habido un problema de conexión con el grupo 1B, por tanto el profesor no pudo comenzar la clase a la hora prevista. Los alumnos que tengan dudas podrán acceder a la sala habilitada para los grupos TI1A y TI1B o solicitar tutorías con vuestro profesor de prácticas. Recordad que si tenéis cualquier otro problema contactad con vuestro profesor por correo electrónico.
+## Análisis y Diseño de Datos y Algoritmos (ADDA)
 
-Además la clase práctica de la semana del 13 de abril al 17 del mismo mes se utilizará para explicar la práctica PI4A ya que el control no se podrá realizar, esta clase será grabada pero se insta a los alumnos a asistir.
+Aprobado el 8/09/2020
 
-## AC
-*Actualmente no disponemos de información sobre esta asignatura.*
-## IISSI2
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Edu1S9kC5GVIvvf1i3dDmj0BKRJod7XqH6125xu9BdwcVw?e=wvyh3g)
 
-Rogamos que estén atentos a anuncios y foros específicos por asignaturas y grupos para esta asgnatura.
+## Diseño de Sistemas Digitales (DSD)
 
-Como primer paso, hemos creado "Foros específicos para la asignatura", recomendando que cada alumno se suscriba a ellos (entrando y pulsando en la opción de suscripción) para estar puntualmente informado. Nos volcaremos en ofrecer nuevo material de apoyo e instrucciones concretas semana a semana, así como a atender las dudas y cuestiones a través de estos foros.
+Aprobado el 8/09/2020
+
+[Grupo 1]()
+
+## Introducción a la Ingeniería del Software y los Sistemas de Información 1 (IISSI1)
+
+Aprobado el 8/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ee7SJZtgmAdOiSUBRE7gMS0BrA72WW-o2mV6n7S-QQILlw?e=p4PbGD)
+
+## Sistemas Operativos (SO)
+
+Aprobado el 8/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ec48Z4vOJ5JAt9Y69XHVBQsBiM2hKjpAzqXBEdVCZQm2_w?e=9ioxc6)
+
+## Tecnología de Computadores (TC)
+
+Aprobado
+
+[Grupo 1]()
+
+## Arquitectura de Computadores (AC)
+
+Aprobado el 8/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EebOpbfXQE5Lsl4nMkkts2kBEu0NlJ7DFN1qLv846CoAfA?e=7Md0cU)
 
 
-## MD
-*Actualmente no disponemos de información sobre esta asignatura.*
-## RC
-*Actualmente no disponemos de información sobre esta asignatura.*
+## Introducción a la Ingeniería del Software y los Sistemas de Información 2 (IISSI2)
 
-### Última actualización: 16/03/20 23:00
+Aprobado el 8/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EXekciGXd-ZMh6mBLiinzcMBXJ-h2-bAEPZg20kvl_BBoQ?e=51TrML)
+
+
+## Matemática Discreta (MD)
+
+Aprobado el 8/09/2020
+
+[Grupo 1]()
+
+
+## Redes de Computadores (RC)
+
+Aprobado el 8/09/2020
+
+[Grupo 1]()
