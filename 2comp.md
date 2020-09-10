@@ -18,7 +18,7 @@ Aprobado el 8/09/2020
 
 Aprobado el 8/09/2020
 
-[Grupo 1]()
+
 
 ## Introducción a la Ingeniería del Software y los Sistemas de Información 1 (IISSI1)
 
@@ -36,7 +36,7 @@ Aprobado el 8/09/2020
 
 Aprobado
 
-[Grupo 1]()
+
 
 ## Arquitectura de Computadores (AC)
 
@@ -56,11 +56,10 @@ Aprobado el 8/09/2020
 
 Aprobado el 8/09/2020
 
-[Grupo 1]()
+
 
 
 ## Redes de Computadores (RC)
 
 Aprobado el 8/09/2020
 
-[Grupo 1]()

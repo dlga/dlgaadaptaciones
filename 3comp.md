@@ -12,8 +12,6 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 
 
-[Grupo 1]()
-
 
 ## Inteligencía Artificial (IA)
 
@@ -46,7 +44,7 @@ Aprobado el 08/09/2020
 ## Arquitectura y Tecnología de Redes 2 (ATR2)
 
 
-[Grupo 1]()
+
 
 
 ## Desarrollo de Aplicaciones Distribuidas (DAD)
@@ -60,17 +58,15 @@ Aprobado el 08/09/2020
 
 
 
-[Grupo 1]()
+
 
 
 ## Periféricos e Interfaces (PI)
 
 
 
-[Grupo 1]()
 
 
 ## Sistemas Empotrados y de Tiempo Real 1 (SETR1)
 
 
-[Grupo 1]()

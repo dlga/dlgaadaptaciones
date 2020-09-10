@@ -10,9 +10,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Administración de Empresas (AE)
 
-[Grupo 1]()
-[Grupo 2]()
-[Grupo 3]()
+
 
 
 ## Algebra Lineal y Númerica (ALN)
@@ -20,7 +18,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 Aprobado el 08/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EaEZwzF0qvtEnEdktY3cESoBPFV9S2J4X3C1VYYtPrnunQ?e=OLhK9M)
-[Grupo 2]()
+
 [Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVyvFCLLJyhBqsKykmMt4P0BUdH73OiHIpx31JGGsl0haQ?e=UNV3aK)
 
 
@@ -29,8 +27,7 @@ Aprobado el 08/09/2020
 Aprobado
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EUqjXv0ADpRJt_Yij_Iciv0Bm1J1bA5jQnA-oIWKmScDyw?e=Z6rViv)
-[Grupo 2]()
-[Grupo 3]()
+
 
 
 ## Fundamentos de la Programación (FP)
@@ -49,9 +46,9 @@ Aprobado el 08/09/2020
 
 Aprobado el 08/09/2020
 
-[Grupo 1]()
+
 [Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESdyDZJFJx9JrzISJf5bJekBLj6ebDxwz-6zCvnC_lfFIw?e=PMfQqe)
-[Grupo 3]()
+
 
 
 ## Cálculo Infinitesimal y Numérico (CIN)
@@ -59,16 +56,14 @@ Aprobado el 08/09/2020
 Aprobado el 08/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ERvBvmmsj3tHqQ6jwmc_riwBK2K9N2T3wlG3Otee-4iKnA?e=owJZNx)
-[Grupo 2]()
+
 [Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EYAjGt9RmOZKrZcKb9JiRckBmsZTGzdLZV07o8ceZdvJGA?e=f9Z30U)
 
 ## Estadística (E)
 
 Aprobado el 10/09/2020
 
-[Grupo 1]()
-[Grupo 2]()
-[Grupo 3]()
+
 
 
 ## Estructrura de Computadores (EDC)
@@ -76,17 +71,16 @@ Aprobado el 10/09/2020
 Aprobado el 08/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdcD5L5UkyJKqbcrALk07CgB6XHm8k5io-McPQ_4cZupDQ?e=EOyQxn)
+
 [Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EaFwGogwmm9LtKAHLq-GkYEBjd0ITFkKPGeBw6j6TTCRtw?e=8mJo6C)
-[Grupo 3]()
+
 
 
 ## Fundamentos Físicos de la Informática (FFI)
 
 Aprobado el 07/09/2020
 
-[Grupo 1]()
-[Grupo 2]()
-[Grupo 3]()
+
 
 
 

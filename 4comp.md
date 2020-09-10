@@ -17,15 +17,14 @@ Aprobado el 08/09/2020
 
 ## Gestión de la Producción (GP)
 
-Aprobado el 08/09/2020
 
-[Grupo 1]()
+
+
 
 ## Laboratorio de Desarrollo de Hardware (LDH)
 
 Aprobado el 08/09/2020
 
-[Grupo 1]()
 
 
 ## Procesamiento Digital de Señales (PDS)
@@ -39,7 +38,7 @@ Aprobado el 08/09/2020
 
 
 
-[Grupo 1]()
+
 
 
 ## Sistemas Empotrados y de Tiempo Real 2 (SETR2)
@@ -74,35 +73,34 @@ Aprobado el 08/09/2020
 
 
 
-[Grupo 1]()
 
 
 ## Estadística Computacional (EC)
 
 
 
-[Grupo 1]()
+
 
 
 ## Plataformas Hardware de Aplicación Específica (PHAE)
 
 
 
-[Grupo 1]()
+
 
 
 ## Procesamiento de Imágenes Digitales (PID)
 
 
 
-[Grupo 1]()
+
 
 
 ## Robótica y Automatización (RA)
 
 
 
-[Grupo 1]()
+
 
 
 ## Sistemas de Adquisición y Control (SAC)
