@@ -4,12 +4,34 @@ title: Inicio
 navigation: 1
 ---
 
-# Adaptación de asignaturas
+# Proyectos Docentes y Planes de Contingencia
 
-Desde la **Delegación de Alumnos** de la **Escuela Técnica Superior de Ingeniería Informática** tenemos la intención de poner a disposición de los alumnos un directorio donde recoger los cambios que se van a realizar en cada asignatura de cara a la actual situación extraordinaria.
-Los datos publicados en esta página se han obtenido directamente de los alumnos y la actualización de los mismos se realizará a medida que recibamos la información. 
+Los proyectos docentes de este curso académico cuentan con un plan de contigencia que especifica como variará la docencia y evaluación de las asignaturas en función de la situación sanitaria en la que nos encontremos debido al virus de la COVID-19.
 
-Desde Delegación **no nos hacemos responsables** del cumplimiento de los mismos ya que únicamente recogemos la información que se nos aporta.
+Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no esté aprobado, no se haya presentado o que el proyecto docente publicado de la asignatura sea común para todos los grupos.
 
-Se ha habilitado un canal de Telegram donde se irán notificando de las actualizaciones que se realicen en la web. En caso de encontrar alguna errata por favor comunicadla a través de correo electrónico (***delegacion_etsii@us.es***) o por nuestras redes sociales (Twitter, Instagram).
+En el apartado de ***Criterios de calificación del grupo*** encontrarás un apartado específico bajo el título:
+
+#### PLAN DE CONTIGENCIA PARA EL CURSO 2020/21
+
+En este apartado se pueden detallar de 2 a 3 escenarios:
+
+  * Escenario 0 : Escenario de presencialidad total. Este escenario es obviado en muchos proyectos por considerarse que lo escrito anteriormente hace referencia a este.
+
+  * Escenario A : Escenario Semipresencial. Menor actividad presencial y limitación de aforo en aulas.
+
+  * Escenario B : Escenario de suspensión total de cualquier actividad presencial, lo que significa que se realizarán telemáticamente.
+
+Este curso se comenzará en el ***ESCENARIO A***
+
+
+-------
+
+La mayoria de asignaturas pertenecientes al departameto de ***Lenguajes y Sistemas Informáticos*** no han detallado el Escenario A. Se ha especificado que:
+
+  * "El carácter presencial o no de las actividades docentes de la asignatura será publicado con al menos una semana de antelación a través de la plataforma de Enseñanza Virtual de la Universidad de Sevilla."
+
+  * Lo más seguro es que se realicen las clases teóricas en formato virtual y las actividades de práctica o laboratorio en formato presencial.
+
+  * "Está previsto dar prioridad a la presencialidad de las pruebas de evaluación."
 
