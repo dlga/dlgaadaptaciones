@@ -23,22 +23,23 @@ Aprobado el 08/09/2020
 
 ## Laboratorio de Desarrollo de Hardware (LDH)
 
-Aprobado el 08/09/2020
+#### Pendiente de Aprobación 14/09/2020
 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eab-AR539YpOgtWUehKPvBcBlceNBPrZRzW_huY-Pz9Z1A?e=o6dUhV)
 
 
 ## Procesamiento Digital de Señales (PDS)
 
-Aprobado el 08/09/2020
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EQm0DRB4gCFFtM-C94y9ElUBmqOiv1YOgpfdpIX4jkhJmg?e=iIxTaK)
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EQm0DRB4gCFFtM-C94y9ElUBmqOiv1YOgpfdpIX4jkhJmg?e=gAMdHY)
 
 
 ## Planificación y Gestión de Proyectos Informáticos (PGPI)
 
+#### Pendiente de Aprobación 14/09/2020
 
-
-
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EY5Ptas5hStPhcsn1SMXUhUBAuIk8TpNLqPBKWvAJwYKsQ?e=BYCLjK)
 
 
 ## Sistemas Empotrados y de Tiempo Real 2 (SETR2)
@@ -57,9 +58,9 @@ Aprobado el 08/09/2020
 
 ## Tecnología, Informática y Sociedad (TIS)
 
-Aprobado el 08/09/2020
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZ0zFkVbfAtMsqNsn_gXZW4BnFX5RtAxjRGuq8CKnAGcIg?e=C0PHVk)
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZ0zFkVbfAtMsqNsn_gXZW4BnFX5RtAxjRGuq8CKnAGcIg?e=Fra4fD)
 
 
 ## Acceso Inteligente a la Información (AII)
@@ -105,13 +106,13 @@ Aprobado el 08/09/2020
 
 ## Sistemas de Adquisición y Control (SAC)
 
-Aprobado el 08/09/2020
+### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ed6TfRZ6PhxNmuYmK1ejONUBCfx0Yuy-2xOHQ4WyPmJuqg?e=hFkW9l)
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ed6TfRZ6PhxNmuYmK1ejONUBCfx0Yuy-2xOHQ4WyPmJuqg?e=qn8W1V)
 
 
 ## Teledetección (T)
 
-Aprobado el 08/09/2020
+### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVxEknt4fg9NprJ1qMEiSIIBVKgvsOZvsJPdL0HxDNxnPQ?e=j2LNj3)
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVxEknt4fg9NprJ1qMEiSIIBVKgvsOZvsJPdL0HxDNxnPQ?e=khXYid)

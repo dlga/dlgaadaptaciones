@@ -24,10 +24,14 @@ Aprobado el 08/09/2020
 
 ## Circuitos Electrónicos Digitales (CED)
 
-Aprobado
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EUqjXv0ADpRJt_Yij_Iciv0Bm1J1bA5jQnA-oIWKmScDyw?e=Z6rViv)
 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EUqjXv0ADpRJt_Yij_Iciv0Bm1J1bA5jQnA-oIWKmScDyw?e=aNPoYj)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EW5gos5QcjpMsXKDGJ8A75kBL9swKOFrgPvqoQ6i_GA51g?e=kLeHsb)
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETkONXBMuHBEpv41zUUxj5kBcl2Tir_DX7WqTz_w7uIHcg?e=7ume1y)
 
 
 ## Fundamentos de la Programación (FP)
@@ -68,12 +72,13 @@ Aprobado el 10/09/2020
 
 ## Estructrura de Computadores (EDC)
 
-Aprobado el 08/09/2020
+### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdcD5L5UkyJKqbcrALk07CgB6XHm8k5io-McPQ_4cZupDQ?e=EOyQxn)
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdcD5L5UkyJKqbcrALk07CgB6XHm8k5io-McPQ_4cZupDQ?e=qlA1Ym)
 
-[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EaFwGogwmm9LtKAHLq-GkYEBjd0ITFkKPGeBw6j6TTCRtw?e=8mJo6C)
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EaFwGogwmm9LtKAHLq-GkYEBjd0ITFkKPGeBw6j6TTCRtw?e=cysBnO)
 
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETauicdx4o5Gtx2glSbGSs4BUxUlQ7TAzqPENjELC5VLyQ?e=gsTZA6)
 
 
 ## Fundamentos Físicos de la Informática (FFI)
@@ -81,7 +86,8 @@ Aprobado el 08/09/2020
 Aprobado el 07/09/2020
 
 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ERI7nA29HgBCpCknI-kSPxoB7Pdy3VIWm_A_IoEkrzzBDg?e=xxXWDb)
 
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVoXOfPyoTRImp0t6EMQhM8BGPs8cjvAqqpUVQt4iGTDWQ?e=IOYsK2)
 
-
-
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ER57P4IxgRxFtyAOBeB9v7IB36j5oeoyaIgWm9D-KSEy6w?e=i7JFmb)

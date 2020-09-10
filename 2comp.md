@@ -14,9 +14,9 @@ Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Edu1S9kC5GVIvvf1i3dDmj0BKRJod7XqH6125xu9BdwcVw?e=wvyh3g)
 
+
 ## Diseño de Sistemas Digitales (DSD)
 
-Aprobado el 8/09/2020
 
 
 
@@ -26,16 +26,19 @@ Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ee7SJZtgmAdOiSUBRE7gMS0BrA72WW-o2mV6n7S-QQILlw?e=p4PbGD)
 
+
 ## Sistemas Operativos (SO)
 
 Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ec48Z4vOJ5JAt9Y69XHVBQsBiM2hKjpAzqXBEdVCZQm2_w?e=9ioxc6)
 
+
 ## Tecnología de Computadores (TC)
 
-Aprobado
+#### Pendiente de Aprobación 14/09/2020
 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfGSrx0o6_tCjQ1dCLDxOi0B3nj6Q6y2C3yW63n5kstPRA?e=rqC8RG)
 
 
 ## Arquitectura de Computadores (AC)
@@ -54,12 +57,11 @@ Aprobado el 8/09/2020
 
 ## Matemática Discreta (MD)
 
-Aprobado el 8/09/2020
-
 
 
 
 ## Redes de Computadores (RC)
 
-Aprobado el 8/09/2020
+#### Pendiente de Aprobación 14/09/2020
 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVh9w2dHwJhJhebeEdGoFVwBTj7Mk4EL3uX1KxVuZhtZpQ?e=ITF39e)
