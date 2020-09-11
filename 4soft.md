@@ -6,49 +6,120 @@ navigation: 5
 
 # Cuarto de Ingeniería de Software
 
-## ISPP
-Se plantean las siguientes acciones desde el equipo docente de la asignatura:
+Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no esté aprobado, no se haya presentado o que el proyecto docente publicado de la asignatura sea común para todos los grupos.
 
-— Se anula la evaluación del primer sprint (#S1) y el peso correspondiente se distribuirá proporcionalmente en el resto de sprints. En este sentido, mañana 17 se podrá hacer la entrega de manera opcional de la presentación y el software para recibir feedback sin que tenga ningún efecto evaluable.
+## Ampliación de Administración de Empresas (AAE)
 
-— Los próximos miércoles 18 y 25 habrá clases virtuales en el horario habitual donde los equipos realizarán una presentación a través de la Enseñanza Virtual (Contenido > VIRTUAL CLASSROOM) 1 y recibirán feedback por parte de los profesores de la forma habitual.
+[Grupo 1]
 
-— Se mantiene la entrega evaluable del segundo sprint (#S2) el martes 31 de marzo y el miércoles 1 de Abril la sesión de presentación evaluable que se realizará siguiendo las instrucciones del Rectorado (virtualmente si es necesario).
+## Acceso Inteligente a la Información (AII)
 
-— En base a la experiencia que acumulemos en estos días y de una eventual ( y probable) prórroga del estado de alarma, se realizará una revisión de estas acciones y del calendario de futuros entregables.
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EWRrZJid749OqLff4KeTzR4BmKKd61IxlcnNSDGXTUO8Cw?e=FpHpDz)
 
 
-## CBD
+## Aplicaciones de Soft Computing (ASC)
 
-Complemento de Bases de Datos  durante el tiempo que se mantenga interrumpida la docencia  
-presencial.
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050029&vac=1107167&gac=1)
 
-— De cada uno de los temas, se pondrá a disposición de los alumnos/as un conjunto de videos que ayudarán a adquirir las competencias necesarias definidas en la asignatura
 
-— Estos videos podrán ser visualizados por los alumnos en cualquier momento
+## Criptografía (C)
 
-— Durante la hora de clase de cada grupo se realizará una clase online en Enseñanza Virtual (Collaborate) donde las profesoras guiarán en el visionado de los videos y propondrán actividades y contestarán preguntas
+Aprobado el 08/09/2020
 
-— La asistencia virtual a las clases y la participación de manera correcta en las actividades valdrá como prueba para la valoración positiva en la evaluación alternativa. 
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZjl64v95jZAgc2-QZ2WfnwBElV9S2fsBmajXuVNLW-3ew?e=f3ALSm)
 
-— Las tutorías se mantienen, aunque de forma no presencial. Las  profesoras seguimos a vuestra disposición a través del correo  electrónico, los chats y los foros de la Enseñanza Virtual para resolver  
-cualquier duda que tengáis.
 
-— La docencia se mantendrá de una forma no presencial hasta nuevo aviso de las autoridades pertinentes, intentado que no se pierdan contenidos ni competencias .
-Para cualquier duda que tengáis en relación con esta situación excepcional, hemos creado un foro en el cual os animamos a participar.
+## Derecho en la Informática (DI)
 
-Estamos seguros que esta nueva situación será también enriquecedora, y conoceremos nuevas formas de trabajar y aprender. Nosotras pondremos todo de nuestra parte para que todo salga lo mejor posible y se nos haga más llevadero el #YoMeQuedoEnCasa aprendiendo
+[Grupo 1]
 
-## EC
 
-*Actualmente no disponemos de información sobre esta asignatura.*
-## OS
-*Actualmente no disponemos de información sobre esta asignatura.*
-## PID
-*Actualmente no disponemos de información sobre esta asignatura.*
-## SSII
-*Actualmente no disponemos de información sobre esta asignatura.*
-## T
-*Actualmente no disponemos de información sobre esta asignatura.*
+## Evolución y Gestión de la Configuración (EGC)
 
-### Última actualización: 16/03/20 23:00
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfbtyVARdvxGgtcH7ELf2S8Bt-RIIuXMkP9qS6lyVsPVgA?e=ft6qYB)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdaUj8fXEzhChNCxsQtLnUwBfiAYlLmP4k06x6WDhi29AA?e=33lyRy)
+
+
+## Gestión de la Producción (GP)
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050033&vac=1106231&gac=1)
+
+
+## Métodos Cuantitativos de Gestión (MCG)
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050034&vac=1107063&gac=1)
+
+
+## Planificación y Gestión de Proyectos Informáticos (PGPI)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZbDmHiuDfdEnLfL2e2FKO0BFYeSrv6QsOyS0t8ThMcNeg?e=1QWSl6)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EV5tSMG46jhBo0o65SOkHJoBsX_kD_EoCOaYm0yG9dCv6w?e=B2e1GX)
+
+
+## Tecnología, Informática y Sociedad (TIS)
+
+#### Pendiente de Aprobación 14/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ERVGGRgrS-JElzdFgnyuvdsBLbSpd6VRxNnBqJvoXZSXjA?e=4IafYQ)
+
+
+## Complementos de Bases de Datos (CBD)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESnszOVashBGoPM-eUpZaP0B78WqUp4SCRBPiJ7DwD_3ug?e=HlEqSb)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVEFwXGSTIBIsy3EGjgXCoQB9saFboy4W-woeILJc3ApAA?e=dKoC7A)
+
+
+## Estadística Computacional (EC)
+
+Aprobado el 10/09/2020
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050038&vac=1115824&gac=1)
+
+
+## Ingeniería del Software y Práctica Profesional (ISPP)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EW9GHsAzrXNJt8HhGK4CGmIBfW_JqmvYpByfgL_MxNtgpA?e=ZQ89cq)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EecVqEfvl8JMpJLNguiLN1QByPU6X6I0VOtUq0TUZ_aNvQ?e=SVLLna)
+
+
+## Optimización de Sistemas (OS)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EcUAFN8-zRJBmQvp5lVZTkoB2TsrCX8XlyNX3VXgEy_bzA?e=lbc1uq)
+
+
+## Procesamiento de Imágenes Digitales (PID)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ec3AMw5pYhNKuAEP_czBpYYBlOW1_HmlzVIIf-IRfs5t1Q?e=khXmdc)
+
+
+## Seguridad en Sistemas Informáticos y en Internet (SSII)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eff5EFqnwbxIpKxK24hdYLABINg4sxGUbrMeu4_lg5Tynw?e=NYteTt)
+
+
+## Teledetección (T)
+
+#### Pendiente de Aprobación 14/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EeqlGtUWLl1NmivTxMnywpgBnpx49qo3GnyJImgvMgZHbA?e=stuz2P)
+

@@ -4,33 +4,140 @@ title: 1º I.Software
 navigation: 2
 ---
 
-# Primero de Ingeniería de Software
+# Primero de Ingeniería del software
 
-## FP
-Publicado el 13/03/2020
+Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no esté aprobado, no se haya presentado o que el proyecto docente publicado de la asignatura sea común para todos los grupos.
 
-Como complemento a las medidas anunciadas por nuestra Universidad en relación con el COVID-19, os queremos informar sobre las actuaciones que vamos a tomar en el marco de la asignatura de Fundamentos de Programación durante el tiempo que se mantenga interrumpida la docencia presencial.
-Las tutorías se mantienen, aunque de forma no presencial. Los profesores seguimos a vuestra disposición a través del correo electrónico, los chats y los foros de la Enseñanza Virtual para resolver cualquier duda que tengáis.
-Las pruebas de evaluación, en particular el sexto cuestionario de teoría previsto para la penúltima semana de marzo, se posponen hasta nueva fecha que será anunciada en su momento. En caso de que el periodo se extienda más allá del día 30 de marzo, estudiaremos alternativas para las pruebas pendientes de la evaluación continua.
-La docencia se mantendrá de una forma no presencial. Los detalles concretos sobre la adaptación de la docencia a la modalidad no presencial en cada grupo os los dará vuestro profesor de teoría, que se pondrá en contacto directamente con vosotros.
-Para cualquier duda que tengáis en relación con esta situación excepcional, hemos creado un foro en el cual os animamos a participar.
+## Administración de Empresas (AE)
 
-Publicado el 03/04/2020:
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050006&vac=1099319&gac=1)
 
-Como seguramente ya sabréis, nuestra Universidad ha decidido mantener toda la docencia en formato online durante lo que resta del curso 2019/20. En nuestra asignatura ya hemos venido impartiendo las clases mediante videoconferencia desde que se decretó el estado de alarma, y lo continuaremos haciendo hasta final de curso.
-Os resumimos a continuación las medidas que estamos tomando para garantizar que la docencia de la asignatura se sigue impartiendo con normalidad:
-Las clases se imparten mediante videoconferencia a través de la herramienta Collaborate Ultra, integrada en la plataforma de Enseñanza Virtual, en su horario habitual. Además, las clases se están grabando, para que aquellos de vosotros que por cualquier causa no hayais podido conectaros a la hora de la clase podais verla más tarde.
-Las tutorías se mantienen a través del correo electrónico, los foros de la Enseñanza Virtual y también por videoconferencia, y os animamos a utilizarlas siempre que lo necesitéis.
-En cuanto a las pruebas de evaluación, desde el Rectorado de la Universidad nos han informado que en breve nos darán unas instrucciones sobre la forma de realizar la evaluación. En cuanto tengamos noticias os avisaremos por este mismo medio.
-Para cualquier duda que tengáis en relación con esta situación excepcional, hemos creado un foro en el cual os animamos a participar.
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050006&vac=1099319&gac=2)
 
-## AE
-*Actualmente no disponemos de información sobre esta asignatura.*
-## ALN
-*Actualmente no disponemos de información sobre esta asignatura.*
-## E
-*Actualmente no disponemos de información sobre esta asignatura.*
-## EdC
-*Actualmente no disponemos de información sobre esta asignatura.*
+[Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050006&vac=1099319&gac=3)
 
-### Última actualización: 04/04/2020 11:00
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050006&vac=1099319&gac=4)
+
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050006&vac=1099319&gac=5)
+
+
+
+## Algebra Lineal y Númerica (ALN)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050007&vac=1099321&gac=1)
+
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050007&vac=1099321&gac=2)
+
+[Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050007&vac=1099321&gac=3)
+
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050007&vac=1099321&gac=4)
+
+[Grupo 5 (INGLÉS)](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EYUgzFaeM7hJpMVbVffOeZ0BflbiWjet4EmT0EJm-r3E0g?e=qdU77a)
+
+
+## Circuitos Electrónicos Digitales (CED)
+
+#### Pendiente de Aprobación 14/09/2020
+
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=1)
+
+[Grupo 2]
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eb7bqLdpvQdLqeFCHy6YHscBEgHjZD13SzDBhFjNWLmyUQ?e=ZV6hF7)
+
+[Grupo 4]
+
+[Grupo 5 (INGLÉS)]
+
+
+
+## Fundamentos de la Programación (FP)
+
+Aprobado el 08/09/2020
+
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdtwjaK_bpBJnI36j9tz0HQBUXESN8i6oOHtTtRwgerkJg?e=OSFYOK)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZ4QaS2qGglMleeNi4_lTyUBOp5BnCRq1EMZ0rCQfyqpTw?e=DZzuJF)
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EXIihYD3WJBAi7gA4NB7vXsBpB_zog81kXWbZ5KtDvzBmw?e=mdha1D)
+
+[Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfkjBdCXt-tJvog56Nq31XYBcR-nWuUZnXxK4w9YUZEJzw?e=acHY3G)
+
+[Grupo 5 (INGLÉS)](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EctppXWtIZhIoMSbMGxqssMB8hbC85IaVHmFpdA7oMbGjw?e=CSTf3e)
+
+
+## Introducción a la Matemática Discreta (IMD)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EbInfuOp5INHkezGhaTnr1kBM4UDHCyUDEMIp01JHBy_cg?e=ybWTnF)
+
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050005&vac=1099316&gac=2)
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETNlryX_9hJBhgXnwpkQzPoBzNNFBmBSe8R3jRM8-N-xTg?e=aVYACq)
+
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050005&vac=1099316&gac=4)
+
+[Grupo 5 (INGLÉS)](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETHoGpUs5fFBkxwvtadq2e0BZO_nE5fKGkMS-L8zpSvZpA?e=ds8quu)
+
+
+## Cálculo Infinitesimal y Numérico (CIN)
+
+Aprobado el 08/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdVqRFGOCitJkPhRYkxnk5cBiTaxDKLvx93UtM5fTNtdNg?e=ygHK0p)
+
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050002&vac=1099308&gac=2)
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EW6QDRFmmWZLqweXk_ovL-QBRslW957uwj3rAQQCjWeo7Q?e=qaSzzS)
+
+[Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EW6QDRFmmWZLqweXk_ovL-QBRslW957uwj3rAQQCjWeo7Q?e=qaSzzS)
+
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050002&vac=1099308&gac=5)
+
+## Estadística (E)
+
+Aprobado el 10/09/2020
+
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eb9DvopIrABGsSqwkyaWgKIBUHUXzTs1SwdgBhCVEazPSw?e=65GXEp)
+
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050008&vac=1115825&gac=2)
+
+[Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050008&vac=1115825&gac=3)
+
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050008&vac=1115825&gac=4)
+
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050008&vac=1115825&gac=5)
+
+## Estructrura de Computadores (EDC)
+
+### Pendiente de Aprobación 14/09/2020
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050009&vac=1099327&gac=1)
+
+[Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EUI_slCz6tNCg6MO6TivCmwBu_1SF2A2-DCKSbLeIILi4g?e=a1ls7g)
+
+[Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVOzKF4T27VBiwznUprP7fwBQ0vka-bJHruku-axmJhJng?e=BCEEw6)
+
+[Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EY6oTqyBOQhEquW9IzOEO4cB5vr5a8jTLzheS8fHO1Il1A?e=qolHIl)
+
+[Grupo 5 (INGLÉS)]
+
+
+## Fundamentos Físicos de la Informática (FFI)
+
+Aprobado el 07/09/2020
+
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=1)
+
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=2)
+
+[Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=3)
+
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=4)
+
+[Grupo 5 (INGLÉS)]
