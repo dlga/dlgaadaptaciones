@@ -14,11 +14,11 @@ Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Edu1S9kC5GVIvvf1i3dDmj0BKRJod7XqH6125xu9BdwcVw?e=wvyh3g)
 
+
 ## Diseño de Sistemas Digitales (DSD)
 
-Aprobado el 8/09/2020
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040012&vac=1100459&gac=1)
 
-[Grupo 1]()
 
 ## Introducción a la Ingeniería del Software y los Sistemas de Información 1 (IISSI1)
 
@@ -26,17 +26,20 @@ Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ee7SJZtgmAdOiSUBRE7gMS0BrA72WW-o2mV6n7S-QQILlw?e=p4PbGD)
 
+
 ## Sistemas Operativos (SO)
 
 Aprobado el 8/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ec48Z4vOJ5JAt9Y69XHVBQsBiM2hKjpAzqXBEdVCZQm2_w?e=9ioxc6)
 
+
 ## Tecnología de Computadores (TC)
 
-Aprobado
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfGSrx0o6_tCjQ1dCLDxOi0B3nj6Q6y2C3yW63n5kstPRA?e=rqC8RG)
+
 
 ## Arquitectura de Computadores (AC)
 
@@ -54,13 +57,11 @@ Aprobado el 8/09/2020
 
 ## Matemática Discreta (MD)
 
-Aprobado el 8/09/2020
-
-[Grupo 1]()
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040016&vac=1099855&gac=1)
 
 
 ## Redes de Computadores (RC)
 
-Aprobado el 8/09/2020
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVh9w2dHwJhJhebeEdGoFVwBTj7Mk4EL3uX1KxVuZhtZpQ?e=ITF39e)

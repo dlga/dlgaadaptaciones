@@ -10,9 +10,9 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Arquitectura y Tecnología de Redes 1 (ATR1)
 
+#### Pendiente de Aprobación 14/09/2020
 
-
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ERZlgjDvzEJMhgo2x7GlTswBBDsXZPohWlRAttMgnoMk1Q?e=xyDvJR)
 
 
 ## Inteligencía Artificial (IA)
@@ -45,8 +45,9 @@ Aprobado el 08/09/2020
 
 ## Arquitectura y Tecnología de Redes 2 (ATR2)
 
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdUMaAtc0DxJj3dA4jMI4vMBB8GmkXEPG4nQAlRjTfVbxw?e=QyPVJ9)
 
 
 ## Desarrollo de Aplicaciones Distribuidas (DAD)
@@ -58,19 +59,19 @@ Aprobado el 08/09/2020
 
 ## Geometría Computacional (GC)
 
-
-
-[Grupo 1]()
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040024&vac=1103885&gac=1)
 
 
 ## Periféricos e Interfaces (PI)
 
+#### Pendiente de Aprobación 14/09/2020
 
-
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESRItmNpFgtJrLU5ZbuBxd0B1NRAA3fEaVFA7l0V5qLP4g?e=Yccn0g)
 
 
 ## Sistemas Empotrados y de Tiempo Real 1 (SETR1)
 
+#### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1]()
+[Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EVB2pirOw4ZKuktfdp9p9hIBd9nf7cxd7Xf7mWM0seBxxQ?e=ywOOWs)
+
