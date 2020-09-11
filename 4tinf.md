@@ -8,6 +8,9 @@ navigation: 9
 
 Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no esté aprobado, no se haya presentado o que el proyecto docente publicado de la asignatura sea común para todos los grupos.
 
+Si quieres saber más sobre las menciones de TI visita [este enlace](https://dlga.github.io/2020/09/11/mencionesti.html)
+
+
 ## Administración de Sistemas de Información (ASI)
 
 #### Pendiente de Aprobación 14/09/2020
