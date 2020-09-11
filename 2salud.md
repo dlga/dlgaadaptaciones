@@ -10,6 +10,8 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Ampliación de Matemáticas (AM)
 
+Aprobado el 08/09/2020
+
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EXZy5ltdIZ1Ao0_dx4UY-A4BMa_vCVtnjLwAudmYrbtIeA?e=uImt8A)
 
 [Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdX4G-pS8ZZKg4_K7Oz9tk4Bej9Y9NjjPCSkGrQgRXTCnQ?e=sesIQi)
@@ -22,6 +24,8 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Estructuras de Datos y Algoritmos (EDA)
 
+Aprobado el 08/09/2020
+
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eezz6W5lrdxHj_0Rn5ETBKkBX76_mSkyIB169X4VHuF81g?e=wcM1K7)
 
 [Grupo 2](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ebu1SV_fK11HkA3hki5PvygBdyQ6U6KoMivOTL7nMd3ToA?e=AaUG6D)
@@ -33,6 +37,8 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 
 ## Arquitectura de Computadores y Sistemas Operativos (ACSO)
+
+Aprobado el 08/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ES1BYbNETj1InxLMQR46N9cBWRtt4ttRRWyhJbCHgXRNxA?e=DnngkG)
 
@@ -53,10 +59,14 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Bases de Datos (BD)
 
+Aprobado el 08/09/2020
+
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Ebu1SV_fK11HkA3hki5PvygBdyQ6U6KoMivOTL7nMd3ToA?e=AaUG6D)
 
 
 ## Control Automático (CA)
+
+### Pendiente de Aprobación 14/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EYPchmcOtKtLszbUBjM7STMBT01MVDubhjO4AJO4uPFLNw?e=J4V8fW)
 
