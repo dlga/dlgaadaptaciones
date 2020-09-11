@@ -125,7 +125,7 @@ Aprobado el 10/09/2020
 
 [Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EY6oTqyBOQhEquW9IzOEO4cB5vr5a8jTLzheS8fHO1Il1A?e=qolHIl)
 
-[Grupo 5 (Inglés)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050009&vac=1099327&gac=5)
+[Grupo 5 (Inglés)]
 
 
 ## Fundamentos Físicos de la Informática (FFI)
