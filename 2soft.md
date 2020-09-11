@@ -97,7 +97,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 [Grupo 5 (Inglés)](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EWvtD2P65QRHkoBjvzza4Z0BQwaUua6IF7ijYw4Tv6K9Sw?e=zoTes0)
 
-## redes de Computadores (RC) 
+## Redes de Computadores (RC) 
 
 [Grupo 1]
 
