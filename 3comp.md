@@ -49,6 +49,7 @@ Aprobado el 08/09/2020
 
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EdUMaAtc0DxJj3dA4jMI4vMBB8GmkXEPG4nQAlRjTfVbxw?e=QyPVJ9)
 
+
 ## Desarrollo de Aplicaciones Distribuidas (DAD)
 
 Aprobado el 08/09/2020
@@ -58,7 +59,7 @@ Aprobado el 08/09/2020
 
 ## Geometría Computacional (GC)
 
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040024&vac=1103885&gac=1)
 
 
 ## Periféricos e Interfaces (PI)

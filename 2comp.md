@@ -17,7 +17,7 @@ Aprobado el 8/09/2020
 
 ## Diseño de Sistemas Digitales (DSD)
 
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040012&vac=1100459&gac=1)
 
 
 ## Introducción a la Ingeniería del Software y los Sistemas de Información 1 (IISSI1)
@@ -57,7 +57,7 @@ Aprobado el 8/09/2020
 
 ## Matemática Discreta (MD)
 
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040016&vac=1099855&gac=1)
 
 
 ## Redes de Computadores (RC)

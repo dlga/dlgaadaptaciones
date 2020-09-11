@@ -18,7 +18,7 @@ Aprobado el 08/09/2020
 ## Gestión de la Producción (GP)
 
 
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040031&vac=1106231&gac=1)
 
 
 ## Laboratorio de Desarrollo de Hardware (LDH)
@@ -73,38 +73,37 @@ Aprobado el 08/09/2020
 ## Aplicaciones de Soft Computing (ASC)
 
 
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040039&vac=1106238&gac=1)
 
 
 ## Estadística Computacional (EC)
 
 
-
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040029&vac=1115824&gac=1)
 
 
 ## Plataformas Hardware de Aplicación Específica (PHAE)
 
 
-
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040041&vac=1106415&gac=1)
 
 
 ## Procesamiento de Imágenes Digitales (PID)
 
 
-
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040042&vac=1106242&gac=1)
 
 
 ## Robótica y Automatización (RA)
 
 
-
-
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2040043&vac=1106416&gac=1)
 
 
 ## Sistemas de Adquisición y Control (SAC)
+
+
+
 
 ### Pendiente de Aprobación 14/09/2020
 
