@@ -50,7 +50,7 @@ Aprobado el 08/09/2020
 
 [Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=4)
 
-[Grupo 5](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=5)
+[Grupo 5]()
 
 
 
@@ -67,7 +67,7 @@ Aprobado el 08/09/2020
 
 [Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfkjBdCXt-tJvog56Nq31XYBcR-nWuUZnXxK4w9YUZEJzw?e=acHY3G)
 
-[Grupo 5](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EfkjBdCXt-tJvog56Nq31XYBcR-nWuUZnXxK4w9YUZEJzw?e=acHY3G)
+[Grupo 5](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EctppXWtIZhIoMSbMGxqssMB8hbC85IaVHmFpdA7oMbGjw?e=CSTf3e)
 
 
 ## Introducción a la Matemática Discreta (IMD)
@@ -82,7 +82,7 @@ Aprobado el 08/09/2020
 
 [Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050005&vac=1099316&gac=4)
 
-[Grupo 5](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETNlryX_9hJBhgXnwpkQzPoBzNNFBmBSe8R3jRM8-N-xTg?e=aVYACq)
+[Grupo 5](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ETHoGpUs5fFBkxwvtadq2e0BZO_nE5fKGkMS-L8zpSvZpA?e=ds8quu)
 
 
 ## Cálculo Infinitesimal y Numérico (CIN)
@@ -102,6 +102,7 @@ Aprobado el 08/09/2020
 ## Estadística (E)
 
 Aprobado el 10/09/2020
+
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eb9DvopIrABGsSqwkyaWgKIBUHUXzTs1SwdgBhCVEazPSw?e=65GXEp)
 
 [Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050008&vac=1115825&gac=2)
@@ -139,4 +140,4 @@ Aprobado el 07/09/2020
 
 [Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=4)
 
-[Grupo 5]()
+[Grupo 5]
