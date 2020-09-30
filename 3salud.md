@@ -37,7 +37,6 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 [Grupo 1](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EZ2SdiI7QtpPldVYoutYascBJsFPVYz-zMhMAzx7OQ-3eQ?e=eiK9yd)
 
 
-
 ## Mención en Informática Clínica
 
 
@@ -58,7 +57,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ### Infraestructuras de Sistemas de Información (ISI)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260036&vac=1106634&gac=1)
 
 
 ### Seguridad, Confidencialidad y Gestión de la Identidad (SCGI)
@@ -78,7 +77,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ### Biomateriales (BMA)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260028&vac=1107248&gac=1)
 
 
 ## Biomecánica 1: Sólidos (BME1)

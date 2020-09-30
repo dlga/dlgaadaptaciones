@@ -18,7 +18,7 @@ Aprobado el 08/09/2020
 
 [Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESm_ImwvrwVDsqtJ6KGUudABVpj6qpyqstBABWz-mc2FUg?e=sUBMPB)
 
-[Grupo 4 (INGLÉS)]https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESm_ImwvrwVDsqtJ6KGUudABVpj6qpyqstBABWz-mc2FUg?e=sUBMPB)
+[Grupo 4 (INGLÉS)](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/ESm_ImwvrwVDsqtJ6KGUudABVpj6qpyqstBABWz-mc2FUg?e=sUBMPB)
 
 
 ## Ingeniería de Requisitos (IR)
@@ -73,11 +73,11 @@ Aprobado el 08/09/2020
 
 #### Pendiente de Aprobación 14/09/2020
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050023&vac=1104246&gac=1)
 
-[Grupo 2]
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050023&vac=1104246&gac=2)
 
-[Grupo 3]
+[Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050023&vac=1104246&gac=3)
 
 
 ## Diseño y Pruebas 2 (DP2)

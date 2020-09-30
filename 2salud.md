@@ -33,7 +33,7 @@ Aprobado el 08/09/2020
 
 ## Electrónica (E)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260014&vac=1104338&gac=1)
 
 
 ## Arquitectura de Computadores y Sistemas Operativos (ACSO)

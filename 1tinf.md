@@ -32,8 +32,6 @@ Aprobado el 08/09/2020
 
 [Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060003&vac=1114740&gac=3)
 
-[Grupo 4]
-
 
 ## Fundamentos Físicos de la Informática (FFI)
 
@@ -95,7 +93,7 @@ Aprobado el 08/09/2020
 
 [Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EWjNvs93x69NsfX_ENRAEd4B_qDYtDyJaazGLSsnAewrQw?e=gdy4Sa)
 
-[Grupo 4]
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060006&vac=1114738&gac=4)
 
 
 ## Estadística (E)
@@ -104,7 +102,7 @@ Aprobado el 10/09/2020
 
 [Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060007&vac=1114742&gac=1)
 
-[Grupo 2]
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060007&vac=1114742&gac=2)
 
 [Grupo 3](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060007&vac=1114742&gac=3)
 

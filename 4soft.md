@@ -10,7 +10,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Ampliación de Administración de Empresas (AAE)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050028&vac=1106679&gac=1)
 
 ## Acceso Inteligente a la Información (AII)
 

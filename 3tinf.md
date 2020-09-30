@@ -20,7 +20,7 @@ Aprobado el 08/09/2020
 ## Gestión y Estrategia Empresarial (GEE)
 
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060020&vac=1104302&gac=1)
 
 
 ## Gestión de Sistemas de Información (GSI)

@@ -18,7 +18,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ## Bioquímica estructural (BE)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260003&vac=1101580&gac=1)
 
 [Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260003&vac=1101580&gac=2)
 
@@ -64,7 +64,8 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 
 ## Gestión de Empresas (GE)
-[Grupo 1]
+
+[Grupo 1]()
 
 [Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260009&vac=1101589&gac=2)
 

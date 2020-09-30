@@ -84,7 +84,7 @@ Si no hay enlace para el proyecto docente de tu grupo puede ser que aún no est�
 
 ### Sistemas de Control y Biomecatrónica (SCB)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2260077&vac=1109950&gac=1)
 
 
 ### Sistemas de Rehabilitación y Ayuda a la Discapacidad (SRAD)

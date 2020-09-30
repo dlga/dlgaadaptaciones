@@ -41,7 +41,7 @@ Aprobado el 08/09/2020
 
 ## Matemática Aplicada a Tecnologías de la Información (MATI)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060038&vac=1106588&gac=1)
 
 
 ## Matemáticas para la Computación (MC)
@@ -95,7 +95,7 @@ Aprobado el 08/09/2020
 
 ## Criptografía (C)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060046&vac=1107173&gac=1)
 
 
 ## Computación Móvil (CM)
@@ -114,7 +114,7 @@ Aprobado el 08/09/2020
 
 ## Gestión de la Producción (GP)
 
-[Grupo 1]
+[Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2060048&vac=1107058&gac=1)
 
 
 ## Inteligencia Empresarial (IE)

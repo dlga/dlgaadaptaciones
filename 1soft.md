@@ -44,13 +44,13 @@ Aprobado el 08/09/2020
 
 [Grupo 1](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=1)
 
-[Grupo 2]
+[Grupo 2](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=2)
 
 [Grupo 3](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/Eb7bqLdpvQdLqeFCHy6YHscBEgHjZD13SzDBhFjNWLmyUQ?e=ZV6hF7)
 
-[Grupo 4]
+[Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=4)
 
-[Grupo 5 (INGLÉS)]
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050003&vac=1099311&gac=5)
 
 
 
@@ -125,7 +125,7 @@ Aprobado el 10/09/2020
 
 [Grupo 4](https://uses0-my.sharepoint.com/:b:/g/personal/delegacion_etsii_us_es/EY6oTqyBOQhEquW9IzOEO4cB5vr5a8jTLzheS8fHO1Il1A?e=qolHIl)
 
-[Grupo 5 (INGLÉS)]
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050009&vac=1099327&gac=5)
 
 
 ## Fundamentos Físicos de la Informática (FFI)
@@ -140,4 +140,4 @@ Aprobado el 07/09/2020
 
 [Grupo 4](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=4)
 
-[Grupo 5 (INGLÉS)]
+[Grupo 5 (INGLÉS)](https://sevius.us.es/asignus/proyectopublicado.php?codasig=2050004&vac=1099314&gac=5%20INGLES)
